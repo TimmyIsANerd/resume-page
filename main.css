@@ -1,0 +1,116 @@
+body {
+    background-color: #1c1d26;
+    font-family: 'Gudea', sans-serif;
+    margin: 5% 15% 5% 15%;
+}
+
+.name {
+    color: #5480f1;
+    display: inline-block;
+    font-size: 1.4em;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+h1,h2{
+    text-shadow: 0 0 3px #5480f1;
+}
+
+.contact-information, .links-container {
+    color: #fff;
+    display: inline-block;
+    font-size: .8em;
+    letter-spacing: 1px;
+    line-height: .9em;
+    text-transform: uppercase;
+}
+
+.contact-deets {
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 2%;
+    margin-top: 1.1em;
+    text-decoration: none;
+}
+
+.links {
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+}
+.links:hover {
+    color: #5480f1;
+}
+
+.links img {
+    margin-bottom: -.2em;
+    padding-right: .3em;
+    padding-left: .3em;
+}
+
+.primary-titles {
+    color: #5480f1;
+    display: inline-block;
+    font-size: .9em;
+    letter-spacing: 1px;
+    margin-bottom: -1%;
+    text-decoration: none;
+}
+
+.location {
+    color: #fff;
+    display: inline-block;
+    font-size: .8em;
+    letter-spacing: 2px;
+    margin-bottom: -1%;
+    margin-top: 1.1em;
+    padding-left: .4em;
+    text-transform: uppercase;
+}
+
+.category-headers {
+    color: #5480f1;
+    font-size: .9em;
+    letter-spacing: 2px;
+    margin-top: 3em;
+    margin-bottom: .1em;
+    text-transform: uppercase;
+}
+
+.category-details {
+    color: #fff;
+    font-size: .9em;
+    font-style: italic;
+    line-height: 1.4em;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-top: .5em;
+    /*margin-top: -1%;*/
+}
+
+.category-description-main {
+    color: #fff;
+    font-size: .9em;
+    line-height: 1.4em;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 7%;
+    margin-top: 1em;
+}
+
+.category-description {
+    color: #fff;
+    font-size: .9em;
+    line-height: 1.4em;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 7%;
+    margin-top: .01em;
+}
+
+hr {
+    border: 1px dotted #A7A9AB;
+    border-style: none none dotted; 
+    margin: 0 10% 0 0;
+}
